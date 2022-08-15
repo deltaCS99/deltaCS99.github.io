@@ -1,4 +1,4 @@
-# Fill Google Form using JavaScript's Fetch API and URLSearchParams Interface
+# Fill Google Form using JavaScript Fetch API and URLSearchParams Interface
 Site Link [Feedback Website](https://deltacs99.github.io/).
 
 
